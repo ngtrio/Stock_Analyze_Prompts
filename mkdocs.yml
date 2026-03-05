@@ -20,12 +20,17 @@ nav:
       - cigbutt/烟蒂股分析Prompt_v1.3.md
   - 龟龟投资策略 (Turtle):
       - Overview: turtle_framework/index.md
-      - v0.14:
-          - turtle_framework/龟龟投资策略_v0.14/coordinator.md
-          - turtle_framework/龟龟投资策略_v0.14/phase1_数据采集.md
-          - turtle_framework/龟龟投资策略_v0.14/phase2_PDF解析.md
-          - turtle_framework/龟龟投资策略_v0.14/phase3_分析与报告.md
+      - v0.15:
+          - turtle_framework/龟龟投资策略_v0.15/coordinator.md
+          - turtle_framework/龟龟投资策略_v0.15/phase1_数据采集.md
+          - turtle_framework/龟龟投资策略_v0.15/phase2_PDF解析.md
+          - turtle_framework/龟龟投资策略_v0.15/phase3_分析与报告.md
       - 历史版本:
+          - v0.14:
+              - turtle_framework/历史版本/龟龟投资策略_v0.14/coordinator.md
+              - turtle_framework/历史版本/龟龟投资策略_v0.14/phase1_数据采集.md
+              - turtle_framework/历史版本/龟龟投资策略_v0.14/phase2_PDF解析.md
+              - turtle_framework/历史版本/龟龟投资策略_v0.14/phase3_分析与报告.md
           - turtle_framework/历史版本/龟龟投资策略_AI_Prompt_v0.13.md
           - turtle_framework/历史版本/龟龟投资策略_AI_Prompt_v0.12.md
           - turtle_framework/历史版本/龟龟投资策略_AI_Prompt_v0.11.md
